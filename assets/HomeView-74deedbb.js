@@ -1,1 +1,0 @@
-import{_ as e,o,c as s,a as t}from"./index-c33d2dec.js";const c={components:{}},a={class:"home"},n=t("h2",{class:"my-4"},"這是首頁",-1),_=[n];function r(d,i,p,m,f,h){return o(),s("div",a,_)}const u=e(c,[["render",r]]);export{u as default};
