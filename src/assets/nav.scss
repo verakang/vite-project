@@ -1,0 +1,24 @@
+nav {
+  a {
+    color: #fff;
+    &:hover{
+      color: #ddd;
+    }
+  }
+}
+
+.admin-nav {
+  a {
+    &.router-link-exact-active {
+      color: #ffc107;
+    }
+  }
+}
+
+.front-nav {
+  a {
+    &.router-link-exact-active {
+      color: #0dcaf0;
+    }
+  }
+}
